@@ -3,7 +3,7 @@ HCAF-Net: Hierarchical Cross-scale Attention Fusion Network for Pulmonary Nodule
 
 
 <center>
-  <img src="https://raw.githubusercontent.com/jylEcho/HCAF-Net/main/images/framework.png?raw=true" width="800" alt="">
+  <img src="https://github.com/jylEcho/HCAF-Net/blob/main/images/framework.png" width="800" alt="">
 </center>
 
 
