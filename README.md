@@ -1,6 +1,6 @@
 # HCAF-Net
 HCAF-Net: Hierarchical Cross-scale Attention Fusion Network for Pulmonary Nodule Classification
-
+![HCAF-Net Framework](https://raw.githubusercontent.com/jylEcho/HCAF-Net/main/images/framework.png)
 
 
 ## Acknowledgement
