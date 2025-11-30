@@ -1,5 +1,5 @@
-# HCAF-Net
-HCAF-Net: Hierarchical Cross-scale Attention Fusion Network for Pulmonary Nodule Classification
+# M³Net
+M³Net: A Macro$\rightarrow$Meso$\rightarrow$Micro Clinical-Guided Explainability Enhancing 3D Network for Pulmonary Nodule Classification
 
 
 <center>
