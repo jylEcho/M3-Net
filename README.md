@@ -55,18 +55,22 @@ If CUDA is not detected, make sure the NVIDIA driver supports CUDA 11.8.
 
 🏋️ **Training Pipeline**
 
-1️⃣ Dataset Splitting
+1️⃣ Dataset preprocess
+1、run the ClfDatasetPrepare_XXX.py to get the different cube sizes output
+python ./ClfDatasetPrepare_XXX.py
 
-2️⃣
+2️⃣ Data_split
+1、run the Data_split.py to split the Dataset into XX:XX:XX
+python ./Data_split.py
 
-3️⃣
+3️⃣ Start Training!
+python ./main.py
 
-4️⃣
-
-5️⃣ Start Training
+4️⃣ Start Testing!
+python ./test.py
 
 📊 Outputs
-
+you can get the confusion matrix and other evalution ACC、Pre、Rec after testing.
 
 
 
