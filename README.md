@@ -15,11 +15,11 @@ Operating System: Linux 5.4.0
 Python Version: 3.8
 CUDA Version: 11.8
 
-1️⃣ Create the Conda environment
+1️⃣ **Create the Conda environment**
 conda create -n liverseg_env python=3.8 -y
 conda activate liverseg_env
 
-2️⃣ Install PyTorch (with CUDA 11.8 support)
+2️⃣ **Install PyTorch (with CUDA 11.8 support)**
 pip install torch==2.0.0+cu118 torchvision==0.15.1+cu118 \
   --extra-index-url https://download.pytorch.org/whl/cu118
 
@@ -30,7 +30,7 @@ print(torch.__version__)
 print(torch.cuda.is_available())
 EOF
 
-3️⃣ Install required dependencies
+3️⃣ **Install required dependencies**
 pip install \
   numpy==1.24.2 \
   scipy==1.10.1 \
@@ -43,17 +43,29 @@ pip install \
   timm \
   safetensors
 
-4️⃣ (Optional) Install project-specific dependencies from GitHub
+4️⃣ **(Optional) Install project-specific dependencies from GitHub**
 git clone https://github.com/your-repo/liverseg.git
 cd liverseg
 pip install -e .
 
-✅ Notes
+✅ **Notes**
 Please do not install packages in the base Conda environment.
 All experiments should be run inside the liverseg_env environment.
 If CUDA is not detected, make sure the NVIDIA driver supports CUDA 11.8.
 
+🏋️ **Training Pipeline**
 
+1️⃣ Dataset Splitting
+
+2️⃣
+
+3️⃣
+
+4️⃣
+
+5️⃣ Start Training
+
+📊 Outputs
 
 
 
