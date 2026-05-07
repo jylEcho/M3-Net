@@ -1,3 +1,5 @@
+# Correction: The parameter count and FLOPs of DINOv3 have been corrected to 85.904M and 539.150G, respectively.
+
 # M³Net
 M³Net: A Macro→Meso→Micro Clinical-Guided Explainability Enhancing 3D Network for Pulmonary Nodule Classification
 
