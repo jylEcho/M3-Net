@@ -3,7 +3,7 @@
 # M³Net
 M³Net: A Macro→Meso→Micro Clinical-Guided Explainability Enhancing 3D Network for Pulmonary Nodule Classification
 
-**We have publicly released the dataset splits and a subset of the model weights at:**
+**👉We have publicly released the dataset splits and a subset of the model weights at:**
 **Google Drive:**
 **https://drive.google.com/drive/folders/1VRj1SQjHvkY82T_4qAtfHy_YElAb_NAx?usp=drive_link**
 
