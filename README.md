@@ -8,6 +8,9 @@ M³Net: A Macro→Meso→Micro Clinical-Guided Explainability Enhancing 3D Netwo
 **https://drive.google.com/drive/folders/1VRj1SQjHvkY82T_4qAtfHy_YElAb_NAx?usp=drive_link**
 
 
+## 📰 News
+- ### 2026.03 — Our work M³Net has been accepted by Information Fusion (INFFUS). 🎉
+
 ✨ Framework
 <center>
   <img src="https://github.com/jylEcho/M3-Net/blob/main/images/framework.png" width="800" alt="">
